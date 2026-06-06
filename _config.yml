@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shuo Cai's homepage"
-description              : "Master of Philosophy student at The Hong Kong Polytechnic University"
+description              : "Model fusion and agentic tool use for Large Language Models"
 repository               : "Baicaihaochi/baicaihaochi.github.io"
 google_scholar_stats_use_cdn : true
 
