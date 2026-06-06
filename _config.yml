@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Shuo Cai's homepage"
-description              : "Master of Philosophy in the Hong Kong Polytechnic University "
-repository               : "Baicaihaochi/ShuoCai007.github.io"
+description              : "Master of Philosophy student at The Hong Kong Polytechnic University"
+repository               : "Baicaihaochi/baicaihaochi.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shuo Cai"
   avatar           : "images/ShuoCai_Photo.png"
-  bio              : "Hong Kong Polytechnic University"
+  bio              : "Master of Philosophy student at The Hong Kong Polytechnic University"
   location         : "Hong Kong, China"
   employer         :
   pubmed           : 
